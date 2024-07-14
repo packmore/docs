@@ -6,10 +6,12 @@ Space Wizards Development Wiki
 Community
 ========================
 - [Roleplay](en/community/roleplay.md)
+  - [Game Rules](en/community/roleplay/rules.md)
   - [Space Law](en/community/roleplay/space-law.md)
   - [Goob Specific Jobs](en/community/roleplay/jobs.md)
     - [Nanotrasen Representative](en/community/roleplay/jobs/ntr.md)
 	- [Blueshield Officer](en/community/roleplay/jobs/bs.md)
+
 
 - [Admin](en/community/admin.md)
   - [Admin Tooling](en/community/admin/admin-tooling.md)
